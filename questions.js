@@ -48,27 +48,11 @@ export default [
         ]
     },
     {
-        question: "O que é a carioteca?",
-        answers: [
-            { option: "Organelo que faz fotossíntese", correct: false },
-            { option: "Membrana que envolve o núcleo", correct: true },
-            { option: "Estrutura que armazena água", correct: false }
-        ]
-    },
-    {
         question: "Qual a principal diferença entre a célula vegetal e a animal?",
         answers: [
             { option: "Presença de mitocôndrias", correct: false },
             { option: "Presença de parede celular e cloroplastos", correct: true },
             { option: "Presença de núcleo", correct: false }
-        ]
-    },
-    {
-        question: "O que são plastídios?",
-        answers: [
-            { option: "Organelas envolvidas na digestão celular", correct: false },
-            { option: "Organelas relacionadas à fotossíntese e armazenamento", correct: true },
-            { option: "Proteínas da membrana plasmática", correct: false }
         ]
     },
     {
