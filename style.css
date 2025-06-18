@@ -193,6 +193,7 @@ header {
     margin: 10px;
     padding: 20px;
     border-radius: 20px;
+    /* font-weight: lighter; */
 }
 
 .icone {
